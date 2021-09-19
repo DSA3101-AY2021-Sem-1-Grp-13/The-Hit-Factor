@@ -38,11 +38,11 @@ Code Team
 * [Lim  Xi Chen Terry](https://github.com/terrylimxc) (Team Leader)
 * [Tan Jie Yi](https://github.com/jieyitann)
 * Nigel Issac Chua Kiat Fang
-<br>
+<br/>
 Slides Team
 * [Wong Zea Ting](https://github.com/Qitingzt)
 * [Yang Zhuolin](https://github.com/Zhuolin99)
-<br>
+<br/>
 Report Team
 * [Loke Kay Chi](https://github.com/kaychiiiii)
 * Zhong Zhaoping
