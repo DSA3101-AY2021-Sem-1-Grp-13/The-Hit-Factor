@@ -37,16 +37,15 @@ popularity.
 Code Team
 * [Lim  Xi Chen Terry](https://github.com/terrylimxc) (Team Leader)
 * [Tan Jie Yi](https://github.com/jieyitann)
-* [Nigel Issac Chua Kiat Fang]
-
+* Nigel Issac Chua Kiat Fang
+<br>
 Slides Team
 * [Wong Zea Ting](https://github.com/Qitingzt)
 * [Yang Zhuolin](https://github.com/Zhuolin99)
-
+<br>
 Report Team
 * [Loke Kay Chi](https://github.com/kaychiiiii)
 * Zhong Zhaoping
-
 
 ## Acknowledgements
 * Dataset scrapped using [Spotify Web API](https://developer.spotify.com/documentation/web-api/)
