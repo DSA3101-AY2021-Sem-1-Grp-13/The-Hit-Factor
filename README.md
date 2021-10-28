@@ -1,10 +1,11 @@
 # The-Hit-Factor
 DSA3101 AY2021/22 Sem 1 Assignment 1
 
-![Assignment 1 Presentation Slides](https://user-images.githubusercontent.com/49337598/133937265-4a199404-dd3a-4cb2-8282-b07e8ffadb35.jpg)
+![Slides](https://user-images.githubusercontent.com/49337598/139251774-5aa8b8f1-480e-47eb-8702-590499cce5d0.jpg)
 
 ## Repository Content
 * Code
+* Data
 * Report
 * Slides
 
