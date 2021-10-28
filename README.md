@@ -4,8 +4,8 @@ DSA3101 AY2021/22 Sem 1 Assignment 1
 ![Slides](https://user-images.githubusercontent.com/49337598/139251774-5aa8b8f1-480e-47eb-8702-590499cce5d0.jpg)
 
 ## Repository Content
-* Code
-* Data
+* [Code](https://github.com/DSA3101-AY2021-Sem-1-Grp-13/The-Hit-Factor/tree/main/code)
+* [Data](https://github.com/DSA3101-AY2021-Sem-1-Grp-13/The-Hit-Factor/tree/main/data)
 * Report
 * Slides
 
