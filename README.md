@@ -46,7 +46,7 @@ Slides Team
   
 Report Team
 * [Loke Kay Chi](https://github.com/kaychiiiii)
-* Zhong Zhaoping  
+* [Zhong Zhaoping](https://github.com/BramleyZhong)
   
 ## Acknowledgements
 * Dataset scrapped using [Spotify Web API](https://developer.spotify.com/documentation/web-api/)
